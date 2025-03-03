@@ -1,0 +1,2 @@
+# RetailMitr
+Retailers face challenges in managing sales, purchases, inventory, and financial reports efficiently. Our ERP solution aims to automate these processes, reduce human error, and provide actionable insights for better decision-making.
